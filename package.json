@@ -1,0 +1,13 @@
+{
+  "name": "numvirtual-platform",
+  "version": "2.0.0",
+  "description": "Plataforma web para números virtuais e recepção de códigos SMS em tempo real (sem dependências externas)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
